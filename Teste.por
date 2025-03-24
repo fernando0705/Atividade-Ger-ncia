@@ -11,7 +11,7 @@ programa {
     leia(num1)
     escreva("Digite outro número: \n")
     leia(num2)
-    resultado=num1-num2
+    subtracao=numero1-numero2
     escreva("O resultado da subtração é ", subtracao)
     escreva("Diga-me um numero: \n")
     leia(numero1)
